@@ -1,0 +1,4 @@
+{
+  "dart_data_class_generator.quick_fixes": true,
+  "dart_data_class_generator.copyWith.enabled": true
+}
